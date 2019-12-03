@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/dev/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: tex-doc.aux
+The style file: ksfh_nat.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: ref.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--Author Unknown Author 
+Warning-- author2019
+Warning--Andreasson Eva Andreasson 
+Warning-- andreasson2019
+Warning--Sridharan Mohanesh Sridharan 
+Warning-- sridharan2019
+Warning--Wenzel Maira Wenzel 
+Warning-- wenzel2019
+You've used 4 entries,
+            2526 wiz_defined-function locations,
+            473 strings with 3331 characters,
+and the built_in function-call counts, 1476 in all, are:
+= -- 136
+> -- 68
+< -- 4
++ -- 20
+- -- 16
+* -- 78
+:= -- 231
+add.period$ -- 4
+call.type$ -- 4
+change.case$ -- 16
+chr.to.int$ -- 4
+cite$ -- 4
+duplicate$ -- 84
+empty$ -- 89
+format.name$ -- 24
+if$ -- 278
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 12
+newline$ -- 20
+num.names$ -- 20
+pop$ -- 16
+preamble$ -- 1
+purify$ -- 24
+quote$ -- 0
+skip$ -- 118
+stack$ -- 0
+substring$ -- 28
+swap$ -- 32
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 56
+warning$ -- 8
+while$ -- 16
+width$ -- 0
+write$ -- 59
+(There were 8 warnings)

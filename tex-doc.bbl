@@ -1,0 +1,20 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+
+\bibitem[Andreasson(2019)Andreasson]{javaworld}
+Andreasson, Eva (2019):
+\textit{JVM Performance Optimization}\newline .
+
+\bibitem[Author(2019)Author]{gc0}
+Author, Unknown (2019):
+\textit{GC Algorithms: Basics}\newline .
+
+\bibitem[Sridharan(2019)Sridharan]{medium}
+Sridharan, Mohanesh (2019):
+\textit{Garbage Collection vs Automatic Reference Counting}\newline .
+
+\bibitem[Wenzel(2019)Wenzel]{latency}
+Wenzel, Maira (2019):
+\textit{Latency Modes}\newline .
+
+\end{thebibliography}

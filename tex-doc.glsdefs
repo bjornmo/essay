@@ -1,0 +1,30 @@
+\ifglsentryexists{C}{}%
+{%
+\gls@defglossaryentry{C}%
+{%
+name={C},%
+sort={C},%
+type={main},%
+first={C},%
+firstplural={Cs},%
+text={C},%
+plural={Cs},%
+description={A very popular programming language invented 1972 and is still heavily used today. Despite its popularity, many modern programmers today tend to prefer its successor C++.},%
+descriptionplural={A very popular programming language invented 1972 and is still heavily used today. Despite its popularity, many modern programmers today tend to prefer its successor C++.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
